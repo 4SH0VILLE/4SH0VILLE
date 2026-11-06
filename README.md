@@ -5,4 +5,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sshinjiikari&label=body+count&color=0c0b1a&style=flat" />
 </p><br>
-<img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31442zv6sucq7ugjf26go4gtojra&width=350&bg_color=13152a&text_color=4f4c5d&artist_color=9ea6bd&meta_color=2b227" />
+<p align="center">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31442zv6suqc7ugjf26go4gtojra&bg_color=121221&text_color=495769&artist_color=8c93ab&meta_color=34374b&accent_color=5e5e73" />
+</p>
