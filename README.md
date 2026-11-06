@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="I love how crispin literally just can't read the room, he's so awkward n I love it 😽.jpg" width="250">
+  <img src="I love how crispin literally just can't read the room, he's so awkward n I love it 😽.jpg" width="300">
 </p>
 </p><br><br>
 
