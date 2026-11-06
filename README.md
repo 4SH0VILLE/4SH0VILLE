@@ -3,6 +3,6 @@
 </p><br><br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sshinjiikari&label=PROFILE+VIEWS&color=0c0b1a&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sshinjiikari&label=body+count&color=0c0b1a&style=flat" />
 </p>
 
