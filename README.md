@@ -4,5 +4,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sshinjiikari&label=body+count&color=0c0b1a&style=flat" />
-</p>
+</p><br>
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31442zv6suqc7ugjf26go4gtojra)
 
