@@ -4,7 +4,8 @@
 </p><br><br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username4SH0VILLE&label=body+count&color=0c0b1a&style=flat-square&base=601" />
+  <img src="https://komarev.com/ghpvc/?username=4SH0VILLE&color=0c0b1a&style=flat-square&base=601">
+</p>
 </p>
 </p>
 </p><br>
