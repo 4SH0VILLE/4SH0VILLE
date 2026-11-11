@@ -4,7 +4,8 @@
 </p><br><br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=4SH0VILLE&label=body+count&color=0c0b1a&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=4SH0VILLE&color=0c0b1a&style=flat-square&label=PROFILE+VIEWS&abbreviated=false&starting=601" />
+</p>
 </p><br>
 <p align="center">
   <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31442zv6suqc7ugjf26go4gtojra&bg_color=121221&text_color=495769&artist_color=8c93ab&meta_color=34374b&accent_color=5e5e73" width="300" />
