@@ -16,4 +16,4 @@
   <img src="GOOD MORNING 😝 EVERYONE HAVE A GREAT DAY 👊🏻👊🏻🔥🔥🔥 Rise n grind 🙏.jpg" width="300">
 
 </p><br><br>
-W mariah, fae, mimi, pearl, lea, sand, ski, val, cael, ovan, vio and others i love u lot 
+W mariah, fae, mimi, pearl, ski, sand, lea, val, cael, ovan, vio and others i love u lot 
